@@ -1,0 +1,4 @@
+{
+  "name": "colab_sample",
+  "install": "bash .cursor/install.sh"
+}

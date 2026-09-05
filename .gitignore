@@ -1,0 +1,14 @@
+# Python virtual environment
+.venv/
+
+# Notebook execution artifacts
+github.executed.ipynb
+nb_exec.log
+.ipynb_checkpoints/
+
+# Downloaded datasets / Keras cache
+.keras/
+
+# Python caches
+__pycache__/
+*.pyc
