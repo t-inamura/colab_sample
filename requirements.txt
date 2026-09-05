@@ -1,0 +1,10 @@
+# Runtime dependencies for the github.ipynb notebook (Keras CNN on CIFAR-10)
+tensorflow-cpu
+numpy
+matplotlib
+
+# Tooling to open and execute the notebook
+jupyterlab
+notebook
+ipykernel
+nbconvert
