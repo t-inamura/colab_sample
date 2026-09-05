@@ -3,7 +3,7 @@
 
 # Notebook execution artifacts
 github.executed.ipynb
-nb_exec.log
+*.log
 .ipynb_checkpoints/
 
 # Downloaded datasets / Keras cache
